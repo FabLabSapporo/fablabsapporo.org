@@ -1,0 +1,13 @@
+/* .vitepress/theme/custom.css */
+:root {
+  --vp-c-brand-1: #489169;
+  --vp-c-brand-2: #747bff;
+  --vp-c-brand-3: #489169; /* home button background */
+}
+
+/*
+Fab Green:  #489169
+Fab Red:    #B43230  
+Fab Blue:   #203A61
+Fab Yellow: #FEFF54
+*/
