@@ -1,10 +1,33 @@
 # fablabsapporo.org
 Website &amp; Content for fablabsapporo.org
 
-### To Do
+# VitePress Default
 
-- [ ] Write (minimal) content for website
-- [ ] Conntect content from this repo to site, update with WebHooks
+Dev
+`npm run docs:dev`
 
-### Nice to have
-- [ ] Explore SSGs (Astro? Hugo?)
+Build
+`npm run docs:build`
+
+Preview Build
+`npm run docs:preview`
+
+
+## Config
+
+`config.js` lives in `.vitepress/config.js`
+
+```js
+export default {
+  lang: 'en-US',
+  title: 'VitePress Test',
+  description: 'Vite & Vue powered static site generator.',
+  base: '/',
+  cleanUrls: true,
+  outDir: './dist' // distribtion folder
+}
+
+```
+
+
+## Git
