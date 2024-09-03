@@ -13,12 +13,12 @@ export default defineConfig ({
     logo: {
       light: '/FLSv2.svg',
       dark: '/FLS_dark.svg',
-      alt: "FLS Logo"
+      alt: "FabLab Sapporo"
     }
   },
   locales: {
     root: {
-      title: 'FabLab Sapporo (Virtual)',
+      title: 'FabLab Sapporo )Virtual)',
       description: 'FabLab Sapporo, FabAcademy, How to Grow Almost Anything, HTMAA, HTGAA',
       label: 'Japanese',
       lang: 'jp', // optional, will be added  as `lang` attribute on `html` tag
