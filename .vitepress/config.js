@@ -24,8 +24,7 @@ export default defineConfig ({
       lang: 'jp', // optional, will be added  as `lang` attribute on `html` tag
       themeConfig: {
         nav: [
-          {text:'Examples JP', link:'/examples'},
-          {text:'Examples JP', link:'/examples'}
+        
         ],
         footer: {
           message: 'Released under the <a href="">MIT License</a>.',
@@ -41,10 +40,15 @@ export default defineConfig ({
       link: '/en/',
       themeConfig: {
         nav: [
-          {text:'About', link:'/en/about'},
-          {text:'Programmes', link:'/en/programmes'},
-          {text:'Events', link:'/en/events'},
-          {text:'Foldscope', link:'/en/foldscope'},
+          { text:'About', link:'/en/about'},
+          {
+            text:'Programmes', 
+            items: [
+              { text: 'FabAcademy 2025', link: '/en/fabacademy' },
+              { text: 'HTGAA 2025', link: '/en/htgaa' }
+            ]
+          },
+          { text:'Upcoming Events', link:'/en/#upcoming-events'},
         ],
         footer: {
           message: 'Released under the MIT License.',

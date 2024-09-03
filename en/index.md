@@ -12,50 +12,35 @@ hero:
   actions:
     - theme: brand
       text: FabAcademy 2025
-      link: /en/examples/markdown-examples
+      link: /en/fabacademy
     - theme: brand
-      text: How to Grow 2025
-      link: /en/examples/api-examples
-    - theme: alt
-      text: Foldscope
-      link: /en/examples/api-examples
+      text: How to Grow Almost Anything 2025
+      link: /en/htgaa
 
 features:
   - icon: 🛠️
     title: FabAcademy 2025
-    details: or 'How to Make Almost Anything'. Application Deadline; Dec 15th, starts January 15 2025
+    details: "<em>'How to Make Almost Anything'</em><br />Application Deadline: <strong>Dec 15th 2024</strong><br />Programme Start: <strong>January 15th, 2025</strong><br />Duration: 20 Weeks"
     link: /en/fabacademy
     linkText: "More..."
   - icon: 🧬
-    title: "How to <strong>Grow</strong> Almost Anything 2025"
-    details: "Application Deadline: Dec 15th, starts January 15 2025"
-    link: /en/fabacademy
+    title: "How to Grow Almost Anything 2025"
+    details: "Programme Start: February 2025<br />Duration: 14 Weeks"
+    link: /en/htgaa
     linkText: "More"
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ---
 
-## About
+## Upcoming Events
 
-<Badge type="tip" text="^1.9.0" />
-<Badge type="warning" text="beta" />
-<Badge type="danger" text="Deadline: 15.12.2025" />
+### NT Sapporo Mini 2024 
+- Date: <Badge type="tip" text="14.9.2024" /><Badge type="tip" text="15.9.2024" /><Badge type="warning" text="13:00 - 17:00" />
+- Event: [NT Sapporo Mini 2024](https://wiki.nicotech.jp/nico_tech/index.php?NT札幌mini2024) at [NoMaps24](https://no-maps.jp/program/program-channel-geek/nt-sapporo-mini/)
+- Venue: Sapporo, [Hokkaido xStation01](https://xstation.jp)
 
-You can get started using VitePress right away using `npx`!
+Please come to the [FabLab Kuriyama](https://fablabkuriyama.jp/) booth at the NicoTech Sappporo Mini 2024 and talk to us in person about [FabAcademy 2025](/en/fabacademy/) and about our experience of teaching and participating in the FabAcademy!
 
-```sh
-npm init
-npx vitepress init
-```
 
-::: danger Deadline
-Before proceeding, make sure to first read [Using a Custom Theme](./custom-theme) to understand how custom themes work.
-:::
+## About <em>Virtual</em> FabLab Sapporo
 
-::: details warning Deadline 15.Dec
-Before proceeding, make sure to first read [Using a Custom Theme](./custom-theme) to understand how custom themes work.
-:::
-
-> [!IMPORTANT] Test
-> Crucial information necessary for users to succeed.
+Fab

@@ -1,8 +1,16 @@
 /* .vitepress/theme/custom.css */
+
 :root {
-  --vp-c-brand-1: #489169;
-  --vp-c-brand-2: #747bff;
-  --vp-c-brand-3: #489169; /* home button background */
+  --vp-c-brand-1: #489169;  /* name */
+  --vp-c-brand-2: #B43230;  /* brand botton hover */
+  --vp-c-brand-3: #489169;  /* brand button background */
+}
+
+.dark {
+  --vp-c-brand-1: #ff0;  /* name */
+  --vp-c-brand-2: #444;  /* brand botton hover */
+  --vp-c-brand-3: #333;  /* brand button background */
+  
 }
 
 /*
