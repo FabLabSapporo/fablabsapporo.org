@@ -3,9 +3,11 @@ import { defineConfig } from 'vitepress'
 export default defineConfig ({
   lang: 'jp',
   title: 'FLS',
-  base: '/',
+  base: '/fablabsapporo.org/dist/',
   cleanUrls: true,
-  outDir: './dist', // distribtion folder
+  outDir: './dist',           // distribtion folder
+  ignoreDeadLinks: true,      // no build error when dead links
+  srcExclude: ['**/README.md'],
   lastUpdated: true,
   themeConfig: {
     logo: {
@@ -26,8 +28,8 @@ export default defineConfig ({
           {text:'Examples JP', link:'/examples'}
         ],
         footer: {
-          message: 'Released under the MIT License. JP',
-          copyright: `Copyright ©${new Date().getFullYear()} FabLab Sapporo`
+          message: 'Released under the <a href="">MIT License</a>.',
+          copyright: `Made with VitePress and ❤️ in Sapporo. Copyright ©${new Date().getFullYear()} <a href="">FabLab Sapporo</a>`
         }
       }
     },
