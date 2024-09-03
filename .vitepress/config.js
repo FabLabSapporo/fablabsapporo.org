@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig ({
   lang: 'jp',
   title: 'FLS',
-  base: '/fablabsapporo.org/dist/',
+  base: '/',
   cleanUrls: true,
   outDir: './dist',           // distribtion folder
   ignoreDeadLinks: true,      // no build error when dead links
