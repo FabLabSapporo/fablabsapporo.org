@@ -6,8 +6,9 @@ hero:
   text: A Virtual FabLab
   tagline: People, Projects, Programmes!
   image:
-    src: /FLSv2.png
-    alt: "FLS"
+    light: '/images/FLSv2.png'
+    dark: '/images/FLS_dark.png'
+    alt: "FabLab Sapporo"
   actions:
     - theme: brand
       text: FabAcademy 2025

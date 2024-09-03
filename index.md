@@ -6,9 +6,9 @@ hero:
   text: A Virtual FabLab
   tagline: 人、プロジェクト、プログラム！!
   image:
-    light: '/FLSv2.png'
-    dark: '/FLS_dark.png'
-    alt: "FLS"
+    light: '/images/FLSv2.png'
+    dark: '/images/FLS_dark.png'
+    alt: "FabLab Sapporo"
   actions:
     - theme: brand
       text: Markdown Examples

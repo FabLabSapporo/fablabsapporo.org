@@ -10,9 +10,9 @@ export default defineConfig ({
   srcExclude: ['**/README.md'],
   lastUpdated: true,
   themeConfig: {
-    logo: {
-      light: '/FLSv2.svg',
-      dark: '/FLS_dark.svg',
+    logo: { /* small logo navbar */
+      light: '/images/FLSv2.svg',
+      dark: '/images/FLS_dark.svg',
       alt: "FabLab Sapporo"
     }
   },
@@ -47,7 +47,7 @@ export default defineConfig ({
           {text:'Foldscope', link:'/en/foldscope'},
         ],
         footer: {
-          message: 'Released under the MIT License. EN',
+          message: 'Released under the MIT License.',
           copyright: `Copyright ©${new Date().getFullYear()} FabLab Sapporo`
         }
       }
