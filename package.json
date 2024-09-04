@@ -4,5 +4,8 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "vite-imagetools": "^7.0.4"
+  }
 }
