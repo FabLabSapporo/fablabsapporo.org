@@ -2,13 +2,11 @@
 layout: doc
 outline: deep
 ---
-# HTGAA
+# HTGAA - How to Grow Almost Anything
 
-::: danger Deadline
-Before proceeding, make sure to first read [Using a Custom Theme](./custom-theme) to understand how custom themes work.
+
+::: danger More Information is coming soon!
+Please look in the meantime at the followig website for more information.
 :::
 
-## fejnjernv
-
-
-### fvsvjnjsk
+[htgaa.org](https://htgaa.org), [htgaa.asia](https://htgaa.asia)
