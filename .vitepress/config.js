@@ -26,11 +26,19 @@ export default defineConfig ({
       lang: 'jp', // optional, will be added  as `lang` attribute on `html` tag
       themeConfig: {
         nav: [
-        
+          { text:'について', link:'/about'},
+          {
+            text:'プログラム', 
+            items: [
+              { text: 'FabAcademy 2025', link: '/fabacademy/' },
+              { text: 'HTGAA 2025', link: '/htgaa/' }
+            ]
+          },
+          { text:'コンタクト', link:'/contact/'},
         ],
         footer: {
           message: 'Released under the <a href="">MIT License</a>.',
-          copyright: `Made with VitePress and ❤️ in Sapporo. Copyright ©${new Date().getFullYear()} <a href="">FabLab Sapporo</a>`
+          copyright: `Made with <a href="http://github.com/FabLabSapporo/fablabsapporo.org">VitePress</a> and ❤️ in Sapporo. Copyright ©${new Date().getFullYear()} FabLab Sapporo`
         }
       }
     },
