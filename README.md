@@ -1,7 +1,7 @@
 # fablabsapporo.org
 Website &amp; Content for fablabsapporo.org
 
-# VitePress Default
+# Running VitePress
 
 Dev
 `npm run docs:dev`
@@ -12,10 +12,16 @@ Build
 Preview Build
 `npm run docs:preview`
 
+# Features
 
-## Config
+- Multi-lingual
+- Light/Dark Images
+- Image Resizing
+
+## Configuration
 
 `config.js` lives in `.vitepress/config.js`
+
 
 ```js
 export default {
@@ -31,3 +37,8 @@ export default {
 
 
 ## Git
+
+
+## To do:
+
+- Install & Test: [vite-imagetools](https://www.npmjs.com/package/vite-imagetools)
