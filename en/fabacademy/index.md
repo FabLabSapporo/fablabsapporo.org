@@ -121,10 +121,10 @@ Let's be ambitions, and make FabAcademy 2025 in Hokkaido happen!
 
 | | FabAcademy Student | Auditing & Lab Access | Auditing |
 | - | - | - | - |
-| Costs | $5000 | $3500 | $0 |
 | Access to Archived Lectures | ✅ | ✅ | ✅ |
 | 2 days of FabLab Access/Week | ✅ | ✅ | ❌ |
 | Local Instructor Feedback | ✅ | ✅ | ❌ |
+| Global  Instructor Feedback | ✅ | ❌ | ❌ |
 | Official FabAcademy Student | ✅ | ❌ | ❌ |
 | FabAcademy Graduation Certificate | ✅ | ❌ | ❌ |
 | Live Lecture Access | ✅ | ❌ | ❌ |
@@ -132,6 +132,8 @@ Let's be ambitions, and make FabAcademy 2025 in Hokkaido happen!
 | Own Repository at FabAcademy Website | ✅ | ❌ | ❌ |
 | Final Project Evaluation | ✅ | ❌ | ❌ |
 | Homework Project | ✅ | ❌ | ❌ |
+| Costs | $5000 | $3500 | $0 |
+
 
 <em>Auditing</em> means trying out a class, but without grades or certificates. If you audit the course and decide to take it as a full student in the future, you will have to pay the full tuition fees.
 
