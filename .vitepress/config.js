@@ -10,7 +10,6 @@ export default defineConfig ({
   outDir: './dist',                     // distribtion folder
   ignoreDeadLinks: true,                // no build error when dead links
   srcExclude: ['**/README.md'],         // exclude files
-  lastUpdated: true,
   themeConfig: {
     logo: { /* small logo navbar */
       light: '/images/FLSv2.svg',
@@ -20,6 +19,7 @@ export default defineConfig ({
     editLink: {
       pattern: 'https://github.com/FabLabSapporo/fablabsapporo.org/edit/main/:path'
     },
+    lastUpdated: true,
     socialLinks: [
       { icon: 'instagram', link: 'https://instagram.com/fablabsapporo/' },
       { icon: 'github', link: 'https://github.com/FabLabSapporo/' },
