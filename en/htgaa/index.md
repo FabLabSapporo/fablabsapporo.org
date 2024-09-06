@@ -6,7 +6,9 @@ outline: deep
 
 
 ::: danger More Information is coming soon!
-Please look in the meantime at the followig website for more information.
+We will run HTGAA in 2025 again, with the collaboration of the lobal node, BioClub Tokyo.
 :::
 
-[htgaa.org](https://htgaa.org), [htgaa.asia](https://htgaa.asia)
+For more information:
+- [htgaa.org](https://htgaa.org)
+- [htgaa.asia](https://htgaa.asia)

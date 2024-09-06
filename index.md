@@ -2,27 +2,33 @@
 layout: home
 
 hero:
-  name: FabLab Sapporo
-  text: A Virtual FabLab
-  tagline: 人、プロジェクト、プログラム！!
+  name: Virtual
+  text: ファブラボ札幌
+  tagline: 人、プロジェクト、プログラム
   image:
     light: '/images/FLSv2.png'
     dark: '/images/FLS_dark.png'
     alt: "FabLab Sapporo"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /examples/markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /examples/api-examples
+      text: FabAcademy 2025
+      link: /fabacademy
+    - theme: brand
+      text: How to Grow Almost Anything 2025
+      link: /htgaa
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🛠️
+    title: FabAcademy 2025
+    details: "<em>'How to Make Almost Anything'</em><br />締め切り: <strong>Dec 25th 2024</strong><br />開始日: <strong>January 15th, 2025</strong><br />期間: 20週間"
+    link: /en/fabacademy/
+    linkText: "More..."
+  - icon: 🧬
+    title: "How to Grow Almost Anything - <em>BioAcademy</em> 2025"
+    details: "締め切り: <strong>Jan 2025</strong><br />Programme 開始日: <strong>TBA</strong><br />期間: 14週間"
+    link: /en/htgaa/
+    linkText: "More"
 ---
+
+
 

@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Virtual
   text: FabLab Sapporo
-  tagline: People, Projects, Programmes!
+  tagline: Let's be fab-itious!
   image:
     light: '/images/FLSv2.png'
     dark: '/images/FLS_dark.png'
@@ -24,20 +24,8 @@ features:
     link: /en/fabacademy/
     linkText: "More..."
   - icon: 🧬
-    title: "How to Grow Almost Anything 2025"
-    details: "Programme Start: February 2025<br />Duration: 14 Weeks"
+    title: "How to Grow Almost Anything - <em>BioAcademy</em> 2025"
+    details: "Programme Start: February 2025<br />Application Deadline: <strong>Jan 2025</strong><br />Programme Start: <strong>TBA</strong><br />Duration: 14 Weeks"
     link: /en/htgaa/
     linkText: "More"
-
 ---
-
-## Upcoming Events
-
-### NT Sapporo Mini 2024 
-- Date: <Badge type="tip" text="14.9.2024" /><Badge type="tip" text="15.9.2024" /><Badge type="warning" text="13:00 - 17:00" />
-- Event: [NT Sapporo Mini 2024](https://wiki.nicotech.jp/nico_tech/index.php?NT札幌mini2024) at [NoMaps24](https://no-maps.jp/program/program-channel-geek/nt-sapporo-mini/)
-- Venue: Sapporo, [Hokkaido xStation01](https://xstation.jp)
-
-Please come to the [FabLab Kuriyama](https://fablabkuriyama.jp/) booth at the NicoTech Sappporo Mini 2024 event at Hokkaido xStation01 for a chancge to talk to us in person about [FabAcademy 2025](/en/fabacademy/) and about our experience as students and teachers.
-
-

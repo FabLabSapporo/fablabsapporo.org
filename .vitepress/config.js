@@ -3,7 +3,7 @@ import { imagetools } from 'vite-imagetools'
 
 export default defineConfig ({
   lang: 'jp',
-  title: 'FLS',
+  title: 'Virtual FabLab Sapporo',
   base: '/',
   cleanUrls: true,
   vite: { plugins: [ imagetools() ] },  // vite plugins
@@ -19,13 +19,18 @@ export default defineConfig ({
     },
     editLink: {
       pattern: 'https://github.com/FabLabSapporo/fablabsapporo.org/edit/main/:path'
-    }
+    },
+    socialLinks: [
+      { icon: 'instagram', link: 'https://instagram.com/fablabsapporo/' },
+      { icon: 'github', link: 'https://github.com/FabLabSapporo/' },
+      { icon: 'x', link: 'https://x.com/fablabsapporo/' },
+    ]
   },
   locales: {
     root: {
       title: "Virtual FabLab Sapporo",
       description: 'FabLab Sapporo, FabAcademy, How to Grow Almost Anything, HTMAA, HTGAA',
-      label: 'Japanese',
+      label: '日本語',
       lang: 'jp', // optional, will be added  as `lang` attribute on `html` tag
       themeConfig: {
         nav: [
@@ -37,10 +42,11 @@ export default defineConfig ({
               { text: 'HTGAA 2025', link: '/htgaa/' }
             ]
           },
+          { text:'イベント', link:'/events/'},
           { text:'コンタクト', link:'/contact/'},
         ],
         footer: {
-          message: 'Released under the <a href="">MIT License</a>.',
+          message: '<a href="https://instagram.com/fablabsapporo/">Instagram</a>, <a href="https://github.com/fablabsapporo/">GitHub</a>, <a href="https://x.com/fablabsapporo/">X</a>',
           copyright: `Made with <a href="http://github.com/FabLabSapporo/fablabsapporo.org">VitePress</a> and ❤️ in Sapporo. Copyright ©${new Date().getFullYear()} FabLab Sapporo`
         }
       }
@@ -61,12 +67,12 @@ export default defineConfig ({
               { text: 'HTGAA 2025', link: '/en/htgaa/' }
             ]
           },
-          { text:'Upcoming Events', link:'/en/#upcoming-events'},
+          { text:'Upcoming Events', link:'/en/events/'},
           { text:'Contact', link:'/en/contact/'},
         ],
         footer: {
-          message: 'Released under the MIT License.',
-          copyright: `Copyright ©${new Date().getFullYear()} FabLab Sapporo`
+          message: '<a href="https://instagram.com/fablabsapporo/">Instagram</a>, <a href="https://github.com/fablabsapporo/">GitHub</a>, <a href="https://x.com/fablabsapporo/">X</a>',
+          copyright: `Made with <a href="http://github.com/FabLabSapporo/fablabsapporo.org">VitePress</a> and ❤️ in Sapporo. Copyright ©${new Date().getFullYear()} FabLab Sapporo`,
         }
       }
     }
