@@ -16,6 +16,9 @@ export default defineConfig ({
       light: '/images/FLSv2.svg',
       dark: '/images/FLS_dark.svg',
       alt: "FabLab Sapporo"
+    },
+    editLink: {
+      pattern: 'https://github.com/FabLabSapporo/fablabsapporo.org/edit/main/:path'
     }
   },
   locales: {
