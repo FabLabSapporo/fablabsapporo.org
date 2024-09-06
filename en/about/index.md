@@ -9,8 +9,8 @@ const members = [
   {
     name: 'Georg Tremmel',
     title: 'Organizer & Lead Instructor',
-    desc: '<a href="">FA 2021</a>, <a href="https://bioclub.tokyo">BioClub Tokyo</a>, BCL, metaPhorest, Angewandte',
-    avatar: 'https://www.github.com/yyx990803.png',
+    desc: '<a href="">FA 2021</a>, <a href="https://bioclub.tokyo">BioClub Tokyo</a>, BCL, metaPhorest, HTGAA, Angewandte',
+    avatar: 'https://www.github.com/trembl.png',
     links: [
       { icon: 'github', link: 'https://github.com/trembl' },
       { icon: 'twitter', link: 'https://twitter.com/trembl' },
@@ -33,4 +33,6 @@ The mid/long-term goal is to establish a space & community similar to BioClub in
 
 <VPTeamMembers size="medium" :members="members" />
 
-As a graduate of FabAcademy (Kamakura 2021), founder of BioClub Tokyo (2015), and Instructor at both _FabAcademy_ and _How to Grow Almost Anything_, the function of this website it to communicate, translate and share. Please [get it touch](/en/contact/) of you have more questions?
+As a graduate of FabAcademy (Kamakura 2021), founder of BioClub Tokyo (2015), and Instructor at both _FabAcademy_ and _How to Grow Almost Anything_, the function of this website it to communicate, translate and share.
+
+Please [get it touch](/en/contact/) of you have more questions?

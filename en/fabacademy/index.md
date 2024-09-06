@@ -13,9 +13,8 @@ const members = [
     avatar: 'https://www.github.com/trembl.png',
     links: [
       { icon: 'github', link: 'https://github.com/trembl' },
-      { icon: 'twitter', link: 'https://twitter.com/trembl' },
+      { icon: 'x', link: 'https://x.com/trembl' },
       { icon: 'instagram', link: 'https://instagram.com/georg.tremmel' },
-      { icon: 'discord', link: 'https://instagram.com/georg.tremmel' }
     ],
   },
   {
@@ -24,7 +23,7 @@ const members = [
     desc: '<a href="https://fabacademy.org/archives/2014/students/takemura.masato/">FA 2014</a>, <a href="http://www.take-space.com/">FabLab Hamamatsu</a>, <a href="http://www.take-space.com/">Take-Space</a>, <a href="https://www.tumblr.com/how-to-eat-almost-anything">HTEAA</a>',
     avatar: 'https://www.github.com/takespace.png',
     links: [
-      { icon: 'twitter', link: 'https://twitter.com/TakeSpaceHM' },
+      { icon: 'x', link: 'https://x.com/TakeSpaceHM' },
       { icon: 'facebook', link: 'https://www.facebook.com/takespace/' },
       { icon: 'instagram', link: 'https://www.instagram.com/howtoeatalmostanything/' },
     ],
@@ -54,7 +53,6 @@ const members = [
     desc: '<a href="https://fabacademy.org/2020/labs/kamakura/students/yuki-oka/">FA 2020</a>, <a href="https://fablabkuriyama.jp">FabLab Kuriyama</a>',
     avatar: 'https://fablabsapporo.org/images/people/oka.jpg',
     links: [
-      
     ],
   },
 ]
@@ -151,7 +149,7 @@ Application Deadline for FabAcademy 2025 is December 25th, 2024.
 2. We will get back to you and schedule an interview
 3. Officially register for [FabAcademy 2025 Registration Form](https://form.jotform.com/FabAcademy/2025-student-registration-form)
 
-Please do not register for FabAcademy without contacting us before. We want to meet you before and make sure that the FabAcademy is for you.
+Please do not register for FabAcademy without [contacting us](https://forms.gle/wKQWksQP739hK9Zz9) before. We want to meet you before and make sure that the FabAcademy is for you.
 
 ::: warning Minimum Number of Students: 3
 At least 3 students are necessary to cover the costs of materials and other fees. If there are less than 3 students it will not be possible to run FabAcademy in Hokkaido. Any paid tution fee will be refundend 100%.
@@ -169,7 +167,7 @@ Therefore, if you fill out the [FabAcademy 2025 Registration Form](https://form.
 
 # Pre-Fab
 
-The course starts in January 2025, it will be an intensive journey - you will probably run out of time to finish the weekly assignments in the depth you want. We highly suggest that you take the time from now until the beginning of FabAcademy to learn about:
+The course starts in January 2025, it will be an intensive journey - you will probably run out of time to finish the weekly assignments in the depth you want. We highly suggest that you take the time from now until the beginning of FabAcademy to learn more about:
 
 - Git
 - SSGs, Static Site Generators
@@ -179,10 +177,49 @@ The course starts in January 2025, it will be an intensive journey - you will pr
 
 While you will have access to a 3D Printer, we highly suggest to get your own, especially if you plan to make longer prints and larger objects.
 
+Here are more [suggestions and exercises](/en/prefab/) to do BEFORE FabAcademy gets started. It's also a great way to test, if the FabAcademy-style is a fit for you.
+
+# Time Requirements
+
+This is the most difficult to explain - and the reason why ~50% of students each year don't graduate.
+
+::: warning It takes time
+It takes a lot of time. At least 25, more realisitcally 30-40 hours per week.
+:::
+
+A typical week will look something like this:
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Monday</th>
+      <th scope="col">Tuesday</th>
+      <th scope="col">Wednesday</th>
+      <th scope="col">Thursday</th>
+      <th scope="col">Friday</th>
+      <th scope="col">Saturday</th>
+      <th scope="col">Sunday</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTML tables</td>
+      <td>22</td>
+      <td>HTML tables</td>
+      <td>22</td>
+      <td>HTML tables</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+</table>
+
 # Interviews
 
-We are happy to talk to you in-person or via Zoom about the benefits and challenges of FabAcademy. The reason why only ~50% of the students each year manage to finish the course and graduate is not because the course is so difficult, but because students underestimate the time the need for the course each week!  
+We are happy to talk to you in-person or via Zoom about the benefits and challenges of FabAcademy. The reason why only ~50% of the students each year manage to finish the course and graduate is not because the course is so difficult, but because students underestimate the time the need for the course each week!
+
 With the personal interview we want to make sure that you know exactly what you have to do for FabAcademy.
+
+Please fill out our [FabAcademy Info Form](https://forms.gle/wKQWksQP739hK9Zz9) to schedule an interview.
 
 # Questions & Answers
 
@@ -210,5 +247,5 @@ Yes, because the Random Generator might call your name and you will be asked to 
 You can use 'AI' chatbots to write your documentation, but you absolutely have to cite it - like any other reference. The goal of FabAcademy should be to learn the various fabrication topics, it's up to you if you want to learn - or just too enough to pass.
 
 **Any more questions?**  
-Please get in touch via the Contact Form!
+Please get in touch via the [Contact Form](/en/contact)!
 
