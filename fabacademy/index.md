@@ -69,7 +69,8 @@ FabAcademy2025のグローバル申込締切日は2024年12月25日です。し�
 
 # FabAcademyについて
 
-![](/images/Banner_2024.png)
+![](/images/FabAcademy_2025_Flyer_JA.png)
+[FabAcademy Hokkaido 2025 Flyer (PDF)](/images/FabAcademy_2025_Flyer_JA.pdf)
 
 最新情報はこちらをご覧ください。[https://fabacademy.org](https://fabacademy.org).
 
