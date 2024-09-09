@@ -16,9 +16,6 @@ export default defineConfig ({
       dark: '/images/FLS_dark.svg',
       alt: "FabLab Sapporo"
     },
-    editLink: {
-      pattern: 'https://github.com/FabLabSapporo/fablabsapporo.org/edit/main/:path'
-    },
     lastUpdated: true,
     socialLinks: [
       { icon: 'instagram', link: 'https://instagram.com/fablabsapporo/' },
@@ -45,6 +42,13 @@ export default defineConfig ({
           { text:'イベント', link:'/events/'},
           { text:'コンタクト', link:'/contact/'},
         ],
+        editLink: {
+          pattern: 'https://github.com/FabLabSapporo/fablabsapporo.org/edit/main/:path',
+          text: 'ページを編集する'
+        },
+        lastUpdated: {
+          text: '最終更新日',
+        },
         footer: {
           message: '<a href="https://instagram.com/fablabsapporo/">Instagram</a>, <a href="https://github.com/fablabsapporo/">GitHub</a>, <a href="https://x.com/fablabsapporo/">X</a>',
           copyright: `Made with <a href="http://github.com/FabLabSapporo/fablabsapporo.org">VitePress</a> and ❤️ in Sapporo. Copyright ©${new Date().getFullYear()} FabLab Sapporo`
@@ -70,6 +74,13 @@ export default defineConfig ({
           { text:'Upcoming Events', link:'/en/events/'},
           { text:'Contact', link:'/en/contact/'},
         ],
+        editLink: {
+          pattern: 'https://github.com/FabLabSapporo/fablabsapporo.org/edit/main/:path',
+          text: 'Edit this page'
+        },
+        lastUpdated: {
+          text: 'Last updated at',
+        },
         footer: {
           message: '<a href="https://instagram.com/fablabsapporo/">Instagram</a>, <a href="https://github.com/fablabsapporo/">GitHub</a>, <a href="https://x.com/fablabsapporo/">X</a>',
           copyright: `Made with <a href="http://github.com/FabLabSapporo/fablabsapporo.org">VitePress</a> and ❤️ in Sapporo. Copyright ©${new Date().getFullYear()} FabLab Sapporo`,
