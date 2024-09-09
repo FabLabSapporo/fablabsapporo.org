@@ -70,7 +70,8 @@ See also [Application Process](#application-process).
 
 # About FabAcademy
 
-![](/images/Banner_2024.png)
+![](/images/2025_Brochure_EN.png)
+[FabAcademy Hokkaido 2025 Flyer (PDF)](https://github.com/FabLabSapporo/FabAcademy-Marketing/blob/2b0d50f85ef3bacdbe703633a430d317e5e78ea6/2025_Brochure_EN.pdf)
 
 For the latest info please see [https://fabacademy.org](https://fabacademy.org).
 
