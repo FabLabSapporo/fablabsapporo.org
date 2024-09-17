@@ -5,7 +5,6 @@ outline: deep
 
 <script setup>
 import image1 from '/images/FLS_dark@4x.png?w=250';
-
 </script>
 
 # Pre-Fab

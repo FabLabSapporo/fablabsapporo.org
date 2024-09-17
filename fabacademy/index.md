@@ -38,6 +38,15 @@ const members = [
     ],
   },
   {
+    name: "Atsufumi Suzuki",
+    title: 'IoT Expert',
+    desc: '<a href="https://fabacademy.org/2022/labs/kamakura/students/atsufumi-suzuki/">FA 2022</a>',
+    avatar: 'https://fablabsapporo.org/images/people/atsu-suzuki.jpg',
+    links: [
+      { icon: 'facebook', link: 'https://www.facebook.com/atsu.suzuki.77' },
+    ],
+  },
+  {
     name: "Toshiki Tsuchiyama",
     title: 'Novice Instructor',
     desc: '<a href="https://academany.fabcloud.io/fabacademy/2020/labs/kamakura/students/toshiki-tsuchiyama/">FA 2020</a>, <a href="https://fablabkuriyama.jp">FabLab Kuriyama</a>',
