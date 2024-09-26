@@ -240,23 +240,23 @@ Please fill out our [FabAcademy Info Form](https://forms.gle/wKQWksQP739hK9Zz9) 
 FabAcademy is a global course, it is taught in English. You are also required to write your documentation in English, and your presentations and presentation video should also be in English.  
 As long as you can follow the English in the [lectures](https://vimeo.com/906141748), it should be fine.
 
-**How many hours/week do I have to spend for FabAcademy?**
+**How many hours/week do I have to spend for FabAcademy?**  
 Depending on your expertise in parametric modelling, programming and circuit-design, somewhere between 25 hours and 40 hours.
 
-**Why do students have to pay for FabAcademy?**
+**Why do students have to pay for FabAcademy?**  
 During the course, students will get 40 days free access to a FabLab, all the materials they need to make the assignments, and expert tutoring, both from Local and Global Instructors. And the pressure to finish the course is free. The tuition costs sounds a lot, but if you have the time and energy to commit to the course it is worth it. (Or if you want to go to MIT, like one of my students from Kamakura 2023 😁).
 
-**Can I audit the course?**
+**Can I audit the course?**  
 If you don't want to pay for the course, there is the possibility audit the course, I suggest to watch the lecture and recitations videos, and do the homework. I am happy to give feedback - and if necessary - a little guidance.
 We can also arrange lab access - or you can arrange lab access for yourself.
 
-**Do I have to do the homework assignments every week?**
+**Do I have to do the homework assignments every week?**  
 Yes. 
 
-**Do I have to join the lectures every week?**
+**Do I have to join the lectures every week?**  
 Yes, because the Random Generator might call your name and you will be asked to present and share your weekly homework.
 
-**Can I use 'AI' to write my documentaton?**
+**Can I use 'AI' to write my documentaton?**  
 You can use 'AI' chatbots to write your documentation, but you absolutely have to cite it - like any other reference. The goal of FabAcademy should be to learn the various fabrication topics, it's up to you if you want dive into the various topics and learn them - or if you just want to do the minimal amount of work to pass.
 
 **Any more questions?**  
