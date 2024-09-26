@@ -256,10 +256,8 @@ Yes.
 **Do I have to join the lectures every week?**
 Yes, because the Random Generator might call your name and you will be asked to present and share your weekly homework.
 
-<!--
 **Can I use 'AI' to write my documentaton?**
-You can use 'AI' chatbots to write your documentation, but you absolutely have to cite it - like any other reference. The goal of FabAcademy should be to learn the various fabrication topics, it's up to you if you want to learn - or just too enough to pass.
--->
+You can use 'AI' chatbots to write your documentation, but you absolutely have to cite it - like any other reference. The goal of FabAcademy should be to learn the various fabrication topics, it's up to you if you want dive into the various topics and learn them - or if you just want to do the minimal amount of work to pass.
 
 **Any more questions?**  
 Please get in touch via the [Contact Form](/en/contact)!
