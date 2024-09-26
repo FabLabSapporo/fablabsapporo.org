@@ -4,7 +4,7 @@ outline: deep
 ---
 
 <script setup>
-import image1 from '/images/FLS_dark@4x.png?w=250';
+import image1_src from '/images/FLS_dark@4x.png?w=250';
 </script>
 
 # Pre-Fab
@@ -15,7 +15,7 @@ Things to do _before_ FabAcademy
 
 The course will in January 2025, it will be a very intensive and busy journey - you will probably run out of time to finish the weekly assignments in the depth you want. 
 
-<Figure :src="image1.src" alt="Image Alt" caption="Image Caption" />
+<Figure :src="image1_src" width="200" alt="Image Alt" caption="Image Caption" />
 
 We therefore highly suggest that you take the time from now until the beginning of FabAcademy to learn about the following:
 
